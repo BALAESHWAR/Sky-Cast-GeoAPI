@@ -49,25 +49,5 @@ A modern, responsive weather web application that fetches and displays real-time
 2. Right-click `index.html`
 3. Click **Open with Live Server**
 
----
-
-## 🌐 Live Hosting (Optional)
-
-You can host this project for free using:
-- **GitHub Pages**
-- **Netlify**
-- **Vercel**
-
----
-
-## 🎓 Project Use Case
-
-This project is suitable for:
-- College mini-project submission
-- Web Technology / JavaScript lab
-- Resume and portfolio
-- API-based web development practice
-
----
 
 
