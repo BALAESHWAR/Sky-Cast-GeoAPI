@@ -35,8 +35,6 @@ A modern, responsive weather web application that fetches and displays real-time
 
 ---
 
----
-
 ## 🚀 How to Run the Project
 
 ### Option 1: Run Locally
